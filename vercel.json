@@ -1,0 +1,9 @@
+{
+  "routes": [
+        { "src": "/Düzköy Süt Ürünleri", "dest": "/dksü.html" },
+      { "src": "/Düzköy Süt Ürünleri - Hakkımızda", "dest": "/dksü1.html" },
+      { "src": "/Düzköy Süt Ürünleri - Neler Yaparız", "dest": "/dksü2.html" },
+      { "src": "/Düzköy Süt Ürünleri - SSS", "dest": "/dksü3.html" },
+      { "src": "/Düzköy Süt Ürünleri - İletişim", "dest": "/dksü4.html" },
+  ]
+}
