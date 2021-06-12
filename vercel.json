@@ -1,9 +1,9 @@
 {
   "routes": [
-        { "src": "/Düzköy Süt Ürünleri", "dest": "/dksü.html" },
-      { "src": "/Düzköy Süt Ürünleri - Hakkımızda", "dest": "/dksü1.html" },
-      { "src": "/Düzköy Süt Ürünleri - Neler Yaparız", "dest": "/dksü2.html" },
-      { "src": "/Düzköy Süt Ürünleri - SSS", "dest": "/dksü3.html" },
-      { "src": "/Düzköy Süt Ürünleri - İletişim", "dest": "/dksü4.html" },
+           { "src": "/duzkoy-sut-urunleri", "dest": "/dksü.html" },
+      { "src": "duzkoy-sut-urunleri-hakkimizda", "dest": "/dksü1.html" },
+      { "src": "duzkoy-sut-urunleri-neler-yapariz", "dest": "/dksü2.html" },
+      { "src": "duzkoy-sut-urunleri-sss", "dest": "/dksü3.html" },
+      { "src": "duzkoy-sut-urunleri-iletisim", "dest": "/dksü4.html" },
   ]
 }
